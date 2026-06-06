@@ -3,7 +3,7 @@
 A real-time currency converter built with vanilla JavaScript.
 
 ## 🔴 Live Demo
-[Click here]C:/Users/roy/OneDrive/Desktop/java-script/index.html
+[Click here]file:///C:/Users/roy/OneDrive/Desktop/java-script/index.htm
 
 ## 🛠️ Built With
 - HTML5
